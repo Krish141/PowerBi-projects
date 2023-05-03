@@ -1,5 +1,6 @@
 
 
 ![Main Report](Images/Plato's%20Pizza%20Sales_page-0001.jpg)
+<img src="Images/Plato's%20Pizza%20Sales_page-0001.jpg")
 
 
