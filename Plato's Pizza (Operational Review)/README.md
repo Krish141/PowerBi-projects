@@ -1,5 +1,5 @@
 
 
-![](https://github.com/Krish141/PowerBi-projects/blob/master/Plato's%20Pizza%20(Operational%20Review)/Images/Plato's%20Pizza%20Sales_page-0001.jpg)
+![Main Report](Images/Plato's%20Pizza%20Sales_page-0001.jpg)
 
-<img src="https://github.com/Krish141/PowerBi-projects/blob/master/Plato's%20Pizza%20(Operational%20Review)/Images/Plato's%20Pizza%20Sales_page-0001.jpg">
+
