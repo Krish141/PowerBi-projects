@@ -13,10 +13,15 @@ Some of the questions which are asked by Stakeholders are:<br>
 •	How well are we utilizing our seating capacity? (We have 15 tables and 60 seats)<br><br>
 See the complete statement here - [https://www.mavenanalytics.io/blog/maven-pizza-challenge](https://www.mavenanalytics.io/blog/maven-pizza-challenge)
 
+#Report
+---------
+The report is made by keeping in mind that above question would be answered.<br>
+Report contains 2 pages
 
+1) 1st page contains overall 2015 Operation analysis 
 <img src= "Images/Plato's%20Pizza%20Sales_page-0001.jpg" width="600" height="800" >
 
- 
+ 2) 2nd Page contains detailed analysis of the Seating capacity.
 <img src= "Images/Plato's%20Pizza%20Sales_page-0002.jpg" width="1000" height="563">
 
 
